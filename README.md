@@ -14,21 +14,6 @@ A simple and clean **Flutter weather application** that shows real-time weather 
 
 ---
 
-## 🧠 How Weather Info Works
-
-- This app uses a free weather API **OpenWeatherMap**
-- When you search a city:
-  - It sends an HTTP GET request to the API
-  - API responds with JSON data
-  - App parses and displays:  
-    - Current temperature  
-    - Weather condition (cloudy, rainy, etc.)  
-    - Humidity, wind speed, pressure  
-    - Min/max temps    
-- All requests and state are handled using GetX's controller
-
----
-
 ## 📦 Tech Stack
 
 - Flutter
@@ -38,10 +23,8 @@ A simple and clean **Flutter weather application** that shows real-time weather 
 
 ---
 
-## 🛠️ Setup & Run Locally
+## 📸 Screenshots
 
-```bash
-git clone https://github.com/yourusername/weather-app.git
-cd weather-app
-flutter pub get
-flutter run
+| Light Mode                          | Dark Mode                          |
+|------------------------------------|------------------------------------|
+| ![Light](assets/light.jpg) | ![Dark](assets/dark.jpg) |
