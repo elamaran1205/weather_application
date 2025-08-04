@@ -27,4 +27,4 @@ A simple and clean **Flutter weather application** that shows real-time weather 
 
 | Light Mode                          | Dark Mode                          |
 |------------------------------------|------------------------------------|
-| ![Light](assets/light.jpg) | ![Dark](assets/dark.jpg) |
+| ![Light](assets/images/light.jpg) | ![Dark](assets/images/dark.jpg) |
